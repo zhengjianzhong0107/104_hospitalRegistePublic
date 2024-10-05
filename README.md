@@ -13,7 +13,7 @@
 [https://www.bilibili.com/video/BV1ZQ4y1p7fV/](https://www.bilibili.com/video/BV1ZQ4y1p7fV/)**
 
 **毕业设计所有选题地址：
-[https://github.com/ynwynw/allProject](https://github.com/ynwynw/allProject)**
+[https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
 ## 基于Java+Springboot+Vue的医院预约挂号小程序(源码+数据库)104
 
